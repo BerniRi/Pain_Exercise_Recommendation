@@ -1,0 +1,249 @@
+"Activity, Exercise or Sport (1 hour)",130 lb,155 lb,180 lb,205 lb,Calories per kg,category,exercise_id
+"Cycling, mountain bike, bmx",502,598,695,791,1.75072971940299,A,5.0
+"Cycling, <10 mph, leisure bicycling",236,281,327,372,0.823235629850746,D,5.0
+"Cycling, >20 mph, racing",944,1126,1308,1489,3.29497352835821,A,5.0
+"Cycling, 10-11.9 mph, light",354,422,490,558,1.23485344477612,C,5.0
+"Cycling, 12-13.9 mph, moderate",472,563,654,745,1.64782526567164,B,5.0
+"Cycling, 14-15.9 mph, vigorous",590,704,817,931,2.05944308059702,A,5.0
+"Cycling, 16-19 mph, very fast, racing",708,844,981,1117,2.47106089552239,A,5.0
+Unicycling,295,352,409,465,1.02972154029851,C,5.0
+"Stationary cycling, very light",177,211,245,279,0.61742672238806,D,5.0
+"Stationary cycling, light",325,387,449,512,1.13262599402985,C,5.0
+"Stationary cycling, moderate",413,493,572,651,1.44133935522388,B,5.0
+"Stationary cycling, vigorous",620,739,858,977,2.16234753432836,A,5.0
+"Stationary cycling, very vigorous",738,880,1022,1163,2.57464235223881,A,5.0
+"Calisthenics, vigorous, pushups, situps…",472,563,654,745,1.64782526567164,B,-1.0
+"Calisthenics, light",207,246,286,326,0.721008179104478,D,-1.0
+"Circuit training, minimal rest",472,563,654,745,1.64782526567164,B,-1.0
+"Weight lifting, body building, vigorous",354,422,490,558,1.23485344477612,C,-1.0
+"Weight lifting, light workout",177,211,245,279,0.61742672238806,D,-1.0
+Health club exercise,325,387,449,512,1.13262599402985,C,-1.0
+Stair machine,531,633,735,838,1.85295717014925,A,-1.0
+"Rowing machine, light",207,246,286,326,0.721008179104478,D,47.0
+"Rowing machine, moderate",413,493,572,651,1.44133935522388,B,47.0
+"Rowing machine, vigorous",502,598,695,791,1.75072971940299,A,47.0
+"Rowing machine, very vigorous",708,844,981,1117,2.47106089552239,A,47.0
+Ski machine,413,493,572,651,1.44133935522388,B,-1.0
+"Aerobics, low impact",295,352,409,465,1.02972154029851,C,-1.0
+"Aerobics, high impact",413,493,572,651,1.44133935522388,B,-1.0
+"Aerobics, step aerobics",502,598,695,791,1.75072971940299,A,-1.0
+"Aerobics, general",384,457,531,605,1.33843490149254,B,-1.0
+Jazzercise,354,422,490,558,1.23485344477612,C,-1.0
+"Stretching, hatha yoga",236,281,327,372,0.823235629850746,D,29.0
+Mild stretching,148,176,204,233,0.515199271641791,D,-1.0
+Instructing aerobic class,354,422,490,558,1.23485344477612,C,-1.0
+Water aerobics,236,281,327,372,0.823235629850746,D,43.0
+"Ballet, twist, jazz, tap",266,317,368,419,0.927494089552239,C,-1.0
+"Ballroom dancing, slow",177,211,245,279,0.61742672238806,D,3.0
+"Ballroom dancing, fast",325,387,449,512,1.13262599402985,C,3.0
+"Running, 5 mph (12 minute mile)",472,563,654,745,1.64782526567164,B,46.0
+"Running, 5.2 mph (11.5 minute mile)",531,633,735,838,1.85295717014925,A,46.0
+"Running, 6 mph (10 min mile)",590,704,817,931,2.05944308059702,A,46.0
+"Running, 6.7 mph (9 min mile)",649,774,899,1024,2.2652519880597,A,46.0
+"Running, 7 mph (8.5 min mile)",679,809,940,1070,2.36815644179104,A,46.0
+"Running, 7.5mph (8 min mile)",738,880,1022,1163,2.57464235223881,A,46.0
+"Running, 8 mph (7.5 min mile)",797,950,1103,1256,2.77977425671642,A,46.0
+"Running, 8.6 mph (7 min mile)",826,985,1144,1303,2.88267871044776,A,46.0
+"Running, 9 mph (6.5 min mile)",885,1056,1226,1396,3.08916462089552,A,46.0
+"Running, 10 mph (6 min mile)",944,1126,1308,1489,3.29497352835821,A,46.0
+"Running, 10.9 mph (5.5 min mile)",1062,1267,1471,1675,3.70659134328358,A,46.0
+"Running, cross country",531,633,735,838,1.85295717014925,A,46.0
+"Running, general",472,563,654,745,1.64782526567164,B,46.0
+"Running, on a track, team practice",590,704,817,931,2.05944308059702,A,46.0
+"Running, stairs, up",885,1056,1226,1396,3.08916462089552,A,46.0
+"Track and field (shot, discus)",236,281,327,372,0.823235629850746,D,-1.0
+"Track and field (high jump, pole vault)",354,422,490,558,1.23485344477612,C,-1.0
+Track and field (hurdles),590,704,817,931,2.05944308059702,A,-1.0
+Archery,207,246,286,326,0.721008179104478,D,-1.0
+Badminton,266,317,368,419,0.927494089552239,C,-1.0
+"Basketball game, competitive",472,563,654,745,1.64782526567164,B,-1.0
+"Playing basketball, non game",354,422,490,558,1.23485344477612,C,-1.0
+"Basketball, officiating",413,493,572,651,1.44133935522388,B,-1.0
+"Basketball, shooting baskets",266,317,368,419,0.927494089552239,C,-1.0
+"Basketball, wheelchair",384,457,531,605,1.33843490149254,B,-1.0
+"Running, training, pushing wheelchair",472,563,654,745,1.64782526567164,B,46.0
+Billiards,148,176,204,233,0.515199271641791,D,-1.0
+Bowling,177,211,245,279,0.61742672238806,D,-1.0
+"Boxing, in ring",708,844,981,1117,2.47106089552239,A,-1.0
+"Boxing, punching bag",354,422,490,558,1.23485344477612,C,-1.0
+"Boxing, sparring",531,633,735,838,1.85295717014925,A,-1.0
+"Coaching: football, basketball, soccer…",236,281,327,372,0.823235629850746,D,-1.0
+"Cricket (batting, bowling)",295,352,409,465,1.02972154029851,C,-1.0
+Croquet,148,176,204,233,0.515199271641791,D,-1.0
+Curling,236,281,327,372,0.823235629850746,D,-1.0
+Darts (wall or lawn),148,176,204,233,0.515199271641791,D,-1.0
+Fencing,354,422,490,558,1.23485344477612,C,-1.0
+"Football, competitive",531,633,735,838,1.85295717014925,A,-1.0
+"Football, touch, flag, general",472,563,654,745,1.64782526567164,B,-1.0
+"Football or baseball, playing catch",148,176,204,233,0.515199271641791,D,-1.0
+"Frisbee playing, general",177,211,245,279,0.61742672238806,D,-1.0
+"Frisbee, ultimate frisbee",472,563,654,745,1.64782526567164,B,-1.0
+"Golf, general",266,317,368,419,0.927494089552239,C,-1.0
+"Golf, walking and carrying clubs",266,317,368,419,0.927494089552239,C,0.0
+"Golf, driving range",177,211,245,279,0.61742672238806,D,-1.0
+"Golf, miniature golf",177,211,245,279,0.61742672238806,D,-1.0
+"Golf, walking and pulling clubs",254,303,351,400,0.885519904477612,C,0.0
+"Golf, using power cart",207,246,286,326,0.721008179104478,D,-1.0
+Gymnastics,236,281,327,372,0.823235629850746,D,-1.0
+Hacky sack,236,281,327,372,0.823235629850746,D,-1.0
+Handball,708,844,981,1117,2.47106089552239,A,-1.0
+"Handball, team",472,563,654,745,1.64782526567164,B,-1.0
+"Hockey, field hockey",472,563,654,745,1.64782526567164,B,-1.0
+"Hockey, ice hockey",472,563,654,745,1.64782526567164,B,-1.0
+"Riding a horse, general",236,281,327,372,0.823235629850746,D,-1.0
+"Horesback riding, saddling horse",207,246,286,326,0.721008179104478,D,-1.0
+"Horseback riding, grooming horse",207,246,286,326,0.721008179104478,D,-1.0
+"Horseback riding, trotting",384,457,531,605,1.33843490149254,B,-1.0
+"Horseback riding, walking",148,176,204,233,0.515199271641791,D,0.0
+"Horse racing, galloping",472,563,654,745,1.64782526567164,B,-1.0
+"Horse grooming, moderate",354,422,490,558,1.23485344477612,C,-1.0
+Horseshoe pitching,177,211,245,279,0.61742672238806,D,-1.0
+Jai alai,708,844,981,1117,2.47106089552239,A,-1.0
+"Martial arts, judo, karate, jujitsu",590,704,817,931,2.05944308059702,A,-1.0
+"Martial arts, kick boxing",590,704,817,931,2.05944308059702,A,-1.0
+"Martial arts, tae kwan do",590,704,817,931,2.05944308059702,A,-1.0
+Krav maga training,590,704,817,931,2.05944308059702,A,-1.0
+Juggling,236,281,327,372,0.823235629850746,D,-1.0
+Kickball,413,493,572,651,1.44133935522388,B,-1.0
+Lacrosse,472,563,654,745,1.64782526567164,B,-1.0
+Orienteering,531,633,735,838,1.85295717014925,A,-1.0
+Playing paddleball,354,422,490,558,1.23485344477612,C,-1.0
+"Paddleball, competitive",590,704,817,931,2.05944308059702,A,-1.0
+Polo,472,563,654,745,1.64782526567164,B,-1.0
+"Racquetball, competitive",590,704,817,931,2.05944308059702,A,-1.0
+Playing racquetball,413,493,572,651,1.44133935522388,B,-1.0
+"Rock climbing, ascending rock",649,774,899,1024,2.2652519880597,A,-1.0
+"Rock climbing, rappelling",472,563,654,745,1.64782526567164,B,-1.0
+"Jumping rope, fast",708,844,981,1117,2.47106089552239,A,-1.0
+"Jumping rope, moderate",590,704,817,931,2.05944308059702,A,-1.0
+"Jumping rope, slow",472,563,654,745,1.64782526567164,B,-1.0
+Rugby,590,704,817,931,2.05944308059702,A,-1.0
+"Shuffleboard, lawn bowling",177,211,245,279,0.61742672238806,D,-1.0
+Skateboarding,295,352,409,465,1.02972154029851,C,-1.0
+Roller skating,413,493,572,651,1.44133935522388,B,-1.0
+"Roller blading, in-line skating",708,844,981,1117,2.47106089552239,A,-1.0
+Sky diving,177,211,245,279,0.61742672238806,D,-1.0
+"Soccer, competitive",590,704,817,931,2.05944308059702,A,-1.0
+Playing soccer,413,493,572,651,1.44133935522388,B,-1.0
+Softball or baseball,295,352,409,465,1.02972154029851,C,-1.0
+"Softball, officiating",236,281,327,372,0.823235629850746,D,-1.0
+"Softball, pitching",354,422,490,558,1.23485344477612,C,-1.0
+Squash,708,844,981,1117,2.47106089552239,A,-1.0
+"Table tennis, ping pong",236,281,327,372,0.823235629850746,D,-1.0
+Tai chi,236,281,327,372,0.823235629850746,D,-1.0
+Playing tennis,413,493,572,651,1.44133935522388,B,-1.0
+"Tennis, doubles",354,422,490,558,1.23485344477612,C,-1.0
+"Tennis, singles",472,563,654,745,1.64782526567164,B,-1.0
+Trampoline,207,246,286,326,0.721008179104478,D,-1.0
+"Volleyball, competitive",472,563,654,745,1.64782526567164,B,-1.0
+Playing volleyball,177,211,245,279,0.61742672238806,D,-1.0
+"Volleyball, beach",472,563,654,745,1.64782526567164,B,-1.0
+Wrestling,354,422,490,558,1.23485344477612,C,-1.0
+Wallyball,413,493,572,651,1.44133935522388,B,-1.0
+"Backpacking, Hiking with pack",413,493,572,651,1.44133935522388,B,-1.0
+"Carrying infant, level ground",207,246,286,326,0.721008179104478,D,-1.0
+"Carrying infant, upstairs",295,352,409,465,1.02972154029851,C,-1.0
+"Carrying 16 to 24 lbs, upstairs",354,422,490,558,1.23485344477612,C,-1.0
+"Carrying 25 to 49 lbs, upstairs",472,563,654,745,1.64782526567164,B,-1.0
+"Standing, playing with children, light",165,197,229,261,0.576806543283582,D,-1.0
+"Walk/run, playing with children, moderate",236,281,327,372,0.823235629850746,D,-1.0
+"Walk/run, playing with children, vigorous",295,352,409,465,1.02972154029851,C,-1.0
+Carrying small children,177,211,245,279,0.61742672238806,D,-1.0
+"Loading, unloading car",177,211,245,279,0.61742672238806,D,-1.0
+"Climbing hills, carrying up to 9 lbs",413,493,572,651,1.44133935522388,B,-1.0
+"Climbing hills, carrying 10 to 20 lb",443,528,613,698,1.5449208119403,B,-1.0
+"Climbing hills, carrying 21 to 42 lb",472,563,654,745,1.64782526567164,B,-1.0
+"Climbing hills, carrying over 42 lb",531,633,735,838,1.85295717014925,A,-1.0
+Walking downstairs,177,211,245,279,0.61742672238806,D,0.0
+"Hiking, cross country",354,422,490,558,1.23485344477612,C,-1.0
+Bird watching,148,176,204,233,0.515199271641791,D,-1.0
+"Marching, rapidly, military",384,457,531,605,1.33843490149254,B,-1.0
+"Children's games, hopscotch, dodgeball",295,352,409,465,1.02972154029851,C,-1.0
+Pushing stroller or walking with children,148,176,204,233,0.515199271641791,D,0.0
+Pushing a wheelchair,236,281,327,372,0.823235629850746,D,-1.0
+Race walking,384,457,531,605,1.33843490149254,B,0.0
+"Rock climbing, mountain climbing",472,563,654,745,1.64782526567164,B,26.0
+Walking using crutches,295,352,409,465,1.02972154029851,C,0.0
+Walking the dog,177,211,245,279,0.61742672238806,D,0.0
+"Walking, under 2.0 mph, very slow",118,141,163,186,0.411617814925373,D,0.0
+"Walking 2.0 mph, slow",148,176,204,233,0.515199271641791,D,0.0
+Walking 2.5 mph,177,211,245,279,0.61742672238806,D,0.0
+"Walking 3.0 mph, moderate",195,232,270,307,0.679710997014925,D,0.0
+"Walking 3.5 mph, brisk pace",224,267,311,354,0.782615450746269,D,0.0
+"Walking 3.5 mph, uphill",354,422,490,558,1.23485344477612,C,0.0
+"Walking 4.0 mph, very brisk",295,352,409,465,1.02972154029851,C,0.0
+Walking 4.5 mph,372,443,515,586,1.29713771940299,B,0.0
+Walking 5.0 mph,472,563,654,745,1.64782526567164,B,0.0
+"Boating, power, speed boat",148,176,204,233,0.515199271641791,D,-1.0
+"Canoeing, camping trip",236,281,327,372,0.823235629850746,D,-1.0
+"Canoeing, rowing, light",177,211,245,279,0.61742672238806,D,47.0
+"Canoeing, rowing, moderate",413,493,572,651,1.44133935522388,B,47.0
+"Canoeing, rowing, vigorous",708,844,981,1117,2.47106089552239,A,47.0
+"Crew, sculling, rowing, competition",708,844,981,1117,2.47106089552239,A,47.0
+Kayaking,295,352,409,465,1.02972154029851,C,-1.0
+Paddle boat,236,281,327,372,0.823235629850746,D,-1.0
+"Windsurfing, sailing",177,211,245,279,0.61742672238806,D,-1.0
+"Sailing, competition",295,352,409,465,1.02972154029851,C,-1.0
+"Sailing, yachting, ocean sailing",177,211,245,279,0.61742672238806,D,-1.0
+"Skiing, water skiing",354,422,490,558,1.23485344477612,C,-1.0
+Ski mobiling,413,493,572,651,1.44133935522388,B,-1.0
+"Skin diving, fast",944,1126,1308,1489,3.29497352835821,A,-1.0
+"Skin diving, moderate",738,880,1022,1163,2.57464235223881,A,-1.0
+"Skin diving, scuba diving",413,493,572,651,1.44133935522388,B,-1.0
+Snorkeling,295,352,409,465,1.02972154029851,C,-1.0
+"Surfing, body surfing or board surfing",177,211,245,279,0.61742672238806,D,-1.0
+"Whitewater rafting, kayaking, canoeing",295,352,409,465,1.02972154029851,C,-1.0
+"Swimming laps, freestyle, fast",590,704,817,931,2.05944308059702,A,4.0
+"Swimming laps, freestyle, slow",413,493,572,651,1.44133935522388,B,4.0
+Swimming backstroke,413,493,572,651,1.44133935522388,B,4.0
+Swimming breaststroke,590,704,817,931,2.05944308059702,A,4.0
+Swimming butterfly,649,774,899,1024,2.2652519880597,A,4.0
+"Swimming leisurely, not laps",354,422,490,558,1.23485344477612,C,4.0
+Swimming sidestroke,472,563,654,745,1.64782526567164,B,4.0
+Swimming synchronized,472,563,654,745,1.64782526567164,B,4.0
+"Swimming, treading water, fast, vigorous",590,704,817,931,2.05944308059702,A,4.0
+"Swimming, treading water, moderate",236,281,327,372,0.823235629850746,D,4.0
+"Water aerobics, water calisthenics",236,281,327,372,0.823235629850746,D,43.0
+Water polo,590,704,817,931,2.05944308059702,A,-1.0
+Water volleyball,177,211,245,279,0.61742672238806,D,-1.0
+Water jogging,472,563,654,745,1.64782526567164,B,25.0
+"Diving, springboard or platform",177,211,245,279,0.61742672238806,D,-1.0
+"Ice skating, < 9 mph",325,387,449,512,1.13262599402985,C,-1.0
+"Ice skating, average speed",413,493,572,651,1.44133935522388,B,-1.0
+"Ice skating, rapidly",531,633,735,838,1.85295717014925,A,-1.0
+"Speed skating, ice, competitive",885,1056,1226,1396,3.08916462089552,A,-1.0
+"Cross country snow skiing, slow",413,493,572,651,1.44133935522388,B,-1.0
+"Cross country skiing, moderate",472,563,654,745,1.64782526567164,B,-1.0
+"Cross country skiing, vigorous",531,633,735,838,1.85295717014925,A,-1.0
+"Cross country skiing, racing",826,985,1144,1303,2.88267871044776,A,-1.0
+"Cross country skiing, uphill",974,1161,1348,1536,3.39787798208955,A,-1.0
+"Snow skiing, downhill skiing, light",295,352,409,465,1.02972154029851,C,-1.0
+"Downhill snow skiing, moderate",354,422,490,558,1.23485344477612,C,-1.0
+"Downhill snow skiing, racing",472,563,654,745,1.64782526567164,B,-1.0
+"Sledding, tobagganing, luge",413,493,572,651,1.44133935522388,B,-1.0
+Snow shoeing,472,563,654,745,1.64782526567164,B,-1.0
+Snowmobiling,207,246,286,326,0.721008179104478,D,-1.0
+General housework,207,246,286,326,0.721008179104478,D,-1.0
+Cleaning gutters,295,352,409,465,1.02972154029851,C,-1.0
+Painting,266,317,368,419,0.927494089552239,C,-1.0
+"Sit, playing with animals",148,176,204,233,0.515199271641791,D,-1.0
+"Walk / run, playing with animals",236,281,327,372,0.823235629850746,D,-1.0
+Bathing dog,207,246,286,326,0.721008179104478,D,-1.0
+"Mowing lawn, walk, power mower",325,387,449,512,1.13262599402985,C,-1.0
+"Mowing lawn, riding mower",148,176,204,233,0.515199271641791,D,-1.0
+"Walking, snow blower",207,246,286,326,0.721008179104478,D,0.0
+"Riding, snow blower",177,211,245,279,0.61742672238806,D,-1.0
+Shoveling snow by hand,354,422,490,558,1.23485344477612,C,-1.0
+Raking lawn,254,303,351,400,0.885519904477612,C,-1.0
+"Gardening, general",236,281,327,372,0.823235629850746,D,37.0
+"Bagging grass, leaves",236,281,327,372,0.823235629850746,D,-1.0
+Watering lawn or garden,89,106,123,140,0.310067367164179,D,-1.0
+"Weeding, cultivating garden",266,317,368,419,0.927494089552239,C,-1.0
+"Carpentry, general",207,246,286,326,0.721008179104478,D,-1.0
+Carrying heavy loads,472,563,654,745,1.64782526567164,B,-1.0
+Carrying moderate loads upstairs,472,563,654,745,1.64782526567164,B,-1.0
+General cleaning,207,246,286,326,0.721008179104478,D,-1.0
+"Cleaning, dusting",148,176,204,233,0.515199271641791,D,-1.0
+Taking out trash,177,211,245,279,0.61742672238806,D,-1.0
+"Walking, pushing a wheelchair",236,281,327,372,0.823235629850746,D,0.0
+"Teach physical education,exercise class",236,281,327,372,0.823235629850746,D,-1.0
